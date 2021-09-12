@@ -2,9 +2,6 @@ const miner = require('./generator');
 const Discord = require('discord.js');
 const client = new Discord.Client;
 
-//Permission: 10320
-//link: https://discord.com/api/oauth2/authorize?client_id=853721396110819358&permissions=10320&scope=bot
-
 let games = {};
 let g;
 
