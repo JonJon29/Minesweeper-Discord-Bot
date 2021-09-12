@@ -12,7 +12,7 @@ var x = 10;
 var y = 10;
 var bombs = 20;
 
-client.login('ODUzNzIxMzk2MTEwODE5MzU4.YMZgAg.qYjGjMlex777IhAC5fTPDbgp5dA');
+client.login('TOKEN');
 
 client.on("ready", () => {
     client.user.setActivity("Minesweeper", { type: 'PLAYING'});
